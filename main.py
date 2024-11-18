@@ -39,7 +39,7 @@ win.grid_rowconfigure(3, minsize=60)
 win.grid_rowconfigure(4, minsize=60)
 
 
-print('Это калькулятор')
+print('Это калькулятор 21')
 
 
 
